@@ -1,0 +1,104 @@
+<html>
+<head>
+<title>Time table</title>
+</head>
+<body>
+<table>
+<style>
+table,th,td{
+border : 2px solid black;
+column-width:80px;
+border-collapse:collapse;
+text-align:center;
+}
+th{
+background-color:skyblue;
+}
+td{
+background-color:yellow;}
+</style>
+<tr>
+<caption style="color:red" colspan="12" >TIME TABLE</caption><br><br>
+<th><b>Day<b></th>
+<th style = "color:blue">8.15<br>to<br>9.45</th>
+<th style="color:blue">9.45<br>to <br>10.25</th>
+<th style="color:blue">10.25<br> to <br>10.45</th>
+<th style="color:blue">10.45<br> to <br>11.10</th>
+<th style="color:blue">11.10<br> to <br>12.15</th>
+<th style="color:blue">12.15<br>to<br>1.15</th>
+<th style="color:blue">1.15 <br>to <br>2.00</th>
+<th style="color:blue">2.00 <br>to<br> 2.45</th>
+<th style="color:blue">2.45<br>to<br>3.00</th>
+<th style="color:blue">3.00<br> to <br>3.45</th>
+<th style="color:blue">3.45<br> to<br> 4.30</th>
+</tr>
+<tr>
+<th style="color:red">Monday</th>
+<td>Phy</td>
+<td>Cs-1</td>
+<th rowspan="7">b<br>r<br>e<br>a<br>k</th>
+<td>Phy</td>
+<td>EIT</td>
+<th rowspan="7">L<br>u<br>n<br>c<br>h</th>
+<td colspan="2">CP</td>
+<th rowspan="7">b<br>r<br>e<br>a<br>k</th>
+<td>MODE</td>
+<td>Cs-1</td>
+</tr><br><br>
+<tr>
+<th style="color:red">Tuesday</th>
+<td>Cs-1</td>
+<td>EIT</td>
+<td>Phy</td>
+<td>Lib</td>
+<td>Phy</td>
+<td>CP</td>
+<td>CP</td>
+<td>Mode</td>
+</tr>
+<tr>
+<th style="color:red">Wednesday</th>
+<td colspan="2">Mode</td>
+<td colspan="2">CP</td>
+<td>Phy</td>
+<td>Lib</td>
+<td>Cs-1</td>
+<td>Tamil</td>
+</tr>
+<tr>
+<th style="color:red">Thursday</th>
+<td colspan="2">CP</td>
+<td colspan="2">EIT</td>
+<td>CP</td>
+<td>PHY</td>
+<td>MODE</td>
+<td>P.Ed</td>
+</tr>
+<tr>
+<th style="color:red">Friday</th>
+<td colspan="2">EIT</td>
+<td>Mode</td>
+<td>Cs-1</td>
+<td>Cs-1</td>
+<td>Phy Lab</td>
+<td colspan="2">Phy Lab</td>
+</tr>
+<tr>
+<th style="color:red">Saturday</th>
+<td>Phy</td>
+<td>CP</td>
+<td colspan="2">Mat Lab</td>
+<td>EIT</td>
+<td>Lib</td>
+<td>SPD</td>
+<td>TAMIL</td>
+</tr>
+
+
+</table>
+</body>
+</html>
+
+
+
+
